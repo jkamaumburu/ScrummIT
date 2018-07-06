@@ -1,0 +1,11 @@
+C:\Users\birech\list-quickstart\bin\MCD\Debug\netcoreapp2.1\list-quickstart.deps.json
+C:\Users\birech\list-quickstart\bin\MCD\Debug\netcoreapp2.1\list-quickstart.runtimeconfig.json
+C:\Users\birech\list-quickstart\bin\MCD\Debug\netcoreapp2.1\list-quickstart.runtimeconfig.dev.json
+C:\Users\birech\list-quickstart\bin\MCD\Debug\netcoreapp2.1\list-quickstart.dll
+C:\Users\birech\list-quickstart\bin\MCD\Debug\netcoreapp2.1\list-quickstart.pdb
+C:\Users\birech\list-quickstart\obj\MCD\Debug\netcoreapp2.1\list-quickstart.csprojAssemblyReference.cache
+C:\Users\birech\list-quickstart\obj\MCD\Debug\netcoreapp2.1\list-quickstart.csproj.CoreCompileInputs.cache
+C:\Users\birech\list-quickstart\obj\MCD\Debug\netcoreapp2.1\list-quickstart.AssemblyInfoInputs.cache
+C:\Users\birech\list-quickstart\obj\MCD\Debug\netcoreapp2.1\list-quickstart.AssemblyInfo.cs
+C:\Users\birech\list-quickstart\obj\MCD\Debug\netcoreapp2.1\list-quickstart.dll
+C:\Users\birech\list-quickstart\obj\MCD\Debug\netcoreapp2.1\list-quickstart.pdb
